@@ -13,7 +13,7 @@
 }
 
 body {
-    background-image: url("./astro-image.png");
+    background-image: url("../img/astro-image.png");
     background-size: cover;
     color: var(--white);
 }
