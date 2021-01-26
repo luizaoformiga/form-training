@@ -1,6 +1,6 @@
 # HELLO! 
 
-## example 
+## example page
 
 <img src="./img/fundo-example-manifest.jpeg">
 
